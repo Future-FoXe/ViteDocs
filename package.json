@@ -1,5 +1,5 @@
 {
-  "name": "ViteDocs",
+  "name": "vitedocs",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -11,5 +11,36 @@
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.73",
     "vue": "^3.2.47"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "algoliasearch": "^4.17.0",
+    "ansi-sequence-parser": "^1.1.0",
+    "body-scroll-lock": "^4.0.0-beta.0",
+    "csstype": "^2.6.21",
+    "esbuild": "^0.17.17",
+    "estree-walker": "^2.0.2",
+    "jsonc-parser": "^3.2.0",
+    "magic-string": "^0.25.9",
+    "mark.js": "^8.11.1",
+    "minisearch": "^6.0.1",
+    "nanoid": "^3.3.6",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.23",
+    "preact": "^10.13.2",
+    "rollup": "^3.20.7",
+    "shiki": "^0.14.1",
+    "source-map": "^0.6.1",
+    "source-map-js": "^1.0.2",
+    "sourcemap-codec": "^1.4.8",
+    "vite": "^4.3.1",
+    "vscode-oniguruma": "^1.7.0",
+    "vscode-textmate": "^8.0.0",
+    "vue-demi": "^0.14.0"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
 }
