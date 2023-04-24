@@ -9,6 +9,8 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "@babel/types": "^7.21.4",
+    "@types/node": "^18.15.13",
     "vitepress": "^1.0.0-alpha.73",
     "vue": "^3.2.47"
   },

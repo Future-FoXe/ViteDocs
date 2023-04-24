@@ -3,23 +3,27 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "尘狐壹梦"
+  text: "狐氙的杂文站"
+  tagline: 氙狸之行，始于Markdown
+  image: 
+    src: /images/logo.png
+    alt: head
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Markdown文本示例
+      link: /example/markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
+      text: API示例
+      link: /example/api-examples
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 施工中…
+    details: 右边是描述
+    icon: 🎉
+  - title: 施工中…
+    details: 左右都是描述
+    icon: 🦊
+  - title: 施工中…
+    details: 左边是描述
+    icon: 💤
 ---
-
